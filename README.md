@@ -1,4 +1,4 @@
-# MK8DX Time Trial Bot
+# MK8DX Time Trial Bot (LINUX/LINUX VM ONLY)
 
 ## Setup
 
